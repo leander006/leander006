@@ -16,40 +16,19 @@
 
 
 
-## 📌 Pinned
-
-
-<p align='center'>
-<p align="center">
-<a href="https://github.com/leander006/social-media-app">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=leander006&repo=social-media-app&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/leander006/Forum-discussion">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=leander006&repo=Forum-discussion&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
-</a>
-</p>
-</p>
 
 
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning Blockchain
 
 - 📫 How to reach me **leanderdsilva06@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/leander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leander" height="30" width="40" /></a>
-</p>
 
 ## 🔥 Github stats
 
 <p align="center">
     <p align="center">
     <img title="My streak" alt="leander006's streak" src="https://github-readme-streak-stats.herokuapp.com?user=leander006&theme=dark&ring=4981F4&currStreakLabel=4981F4&fire=4981F4&border=4981F4"/>
-    <img alt="leander006's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leander006&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4981F4&icon_color=F8D866&hide=Jupyter%20Notebook&border_color=4981F4"/>
-    </p>
+
 </p>
 
 
