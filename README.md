@@ -15,13 +15,9 @@
 
 
 
-
-
-
-
 - 🌱 I’m currently learning Blockchain
 
-- 📫 How to reach me **leanderdsilva06@gmail.com**
+- 📫 How to reach me *https://leanderdsilva.netlify.app/*
 
 
 
