@@ -23,30 +23,7 @@
 
 - 📫 How to reach me **leanderdsilva06@gmail.com**
 
-## 📌 Pinned
 
-
-<p align='center'>
-<p align="center">
-<a href="https://github.com/leander006/social-media-app">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=leander006&repo=social-media-app&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/leander006/NFT-Market-Place">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=leander006&repo=NFT-Market-Place&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
-</a>
-</p>
-</p>
-
-<p align="center">
-<a href="https://github.com/leander006/News-App">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=leander006&repo=News-App&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/leander006/Dog-service-website">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=leander006&repo=Dog-service-website&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
-</a>
-</p>
 
 
 ## 🔥 Github stats
