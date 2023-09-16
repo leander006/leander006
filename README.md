@@ -22,13 +22,12 @@
 
 
 
-## 🔥 Github stats
+## 🔥📊 Github stats
 
 <p align="center">
-    <p align="center">
-    <img title="My streak" alt="leander006's streak" src="https://github-readme-streak-stats.herokuapp.com?user=leander006&theme=dark&ring=4981F4&currStreakLabel=4981F4&fire=4981F4&border=4981F4"/>
-
+  <img width="40%" src="https://streak-stats.demolab.com?user=leander006&background=15141B&ring=A177FE&currStreakNum=61FECA&fire=61FECA&sideLabels=A177FE&currStreakLabel=A177FE&dates=61FECA&sideNums=A177FE" />
 </p>
+
 
 
 ## 🛠️ My favorite tools
