@@ -14,9 +14,6 @@
 </p>
 
 
-
-- 🌱 I’m currently learning Blockchain
-
 - 📫 How to reach me *https://leanderdsilva.netlify.app/*
 
 
